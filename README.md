@@ -28,3 +28,9 @@ To capture and analyze network packets to understand network communication.
 - Packet capture
 - Protocol analysis
 - Traffic filtering
+
+  ## Screenshots
+Attached Wireshark packet capture screenshots showing DNS, TCP, and ICMPv6 traffic analysis.
+
+## Conclusion
+This lab helped me understand packet capturing, traffic filtering, and protocol analysis using Wireshark. I analyzed DNS queries, TCP communication, and ICMPv6 packets to study real-time network behavior.
