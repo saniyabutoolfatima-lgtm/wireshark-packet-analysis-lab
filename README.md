@@ -11,7 +11,7 @@ To capture and analyze network packets to understand network communication.
 ## Protocols Analyzed
 - DNS
 - TCP
-- HTTP
+- ICMPv6
 
 ## Activity Performed
 - Started packet capture
@@ -22,7 +22,7 @@ To capture and analyze network packets to understand network communication.
 ## Findings
 - Observed DNS queries
 - Tracked TCP handshake
-- Identified HTTP requests
+- Observed ICMPv6 packets and neighbor discovery messages
 
 ## Skills Learned
 - Packet capture
